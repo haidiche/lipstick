@@ -1,5 +1,5 @@
 var zr = null;
-var bgDpi = 0.2;
+var bgDpi = 0.5;
 var zrDpi = 1;
 var width = 0;
 var height = 0;
